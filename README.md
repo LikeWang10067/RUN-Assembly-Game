@@ -1,4 +1,4 @@
-# RUN-Assembly-Game-
+# RUN-Assembly-Game
 # This is the final project for CSCB58. I create a pixel game called RUN with MARS.
 # CSCB58 Winter 2022 Assembly Final Project
 # University of Toronto, Scarborough
