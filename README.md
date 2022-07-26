@@ -27,9 +27,10 @@
 #
 # Any additional information that the TA needs to know:
 # - Time taken	: 7 days
-# - Control	: press "d" to move right.
-#  		: press "a" to move left.
-#  		: press "space" to jump.
+# - Control
+# : press "d" to move right.
+# : press "a" to move left.
+# : press "space" to jump.
 # - Background of the game
 # 	The background of the game is about the_lost_King (main_character). He used to rule a kingdom.
 # 	One day, there were enemies from far away attack his kingdom and occupied his castle.
